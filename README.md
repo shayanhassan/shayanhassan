@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shayanhassan
 - 👀 I’m interested in Data Science and Machine learning
-- 🌱 I’m currently doing a full-time immersive bootcamp on Data Science and Machine Learning from Xccelerate in Hong Kong.
+- 🌱 I recently finished a 16-week full-time immersive bootcamp on Data Science and Machine Learning from Xccelerate in Hong Kong.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: email at shayan.hassan.ec@gmail.com
 
